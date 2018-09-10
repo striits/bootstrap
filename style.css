@@ -1,0 +1,81 @@
+* {
+  -webkit-box-sizing: border-box !important;
+     -moz-box-sizing: border-box !important;
+          box-sizing: border-box !important;
+}
+
+
+
+.row {
+  max-width: 1224px;
+  margin-right: auto !important;
+  margin-left: auto !important;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+
+header {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 999;
+  width: 100%;
+}
+
+.nav-link {
+  color: #fff;
+  font-weight: 900
+}
+form {
+  min-width: 100%
+}
+
+.form-group {
+  max-width: 350px !important
+}
+
+.fa-cut {
+  position: absolute;
+  top: 25px;
+  right: 20px
+}
+
+.col-md-4 {
+  padding: 20px;
+  margin: 0 20px;
+  max-width: 360px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.kolon {
+  background-color: rgba(0,0,0,.2);
+  font-weight: 900
+}
+
+.kolon img {
+  max-width: 320px;
+  padding-top: 10px;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.accordion {
+  max-width: 1224px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px
+}
+
+#kontakti {
+  margin-bottom: 80px
+
+}
+#parmums {
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
